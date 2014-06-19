@@ -66,16 +66,3 @@ In order to start the internal server, it's a simple command:
 	$ rails server
 
 That's it!  There's some information you can access by clicking the "About your Application's Environment" link, which will show you how your server is configured and running.  For example, I can see the versions of Ruby, of Rails, my JavaScript Runtime (it's Node, by the way), application root, etc.
-
-##Version Control##
-
-The next bit is to start up some sweet version control.  This is done by navigating to the root directory in a Terminal window, and typing:
-
-	$ git init
-	$ git add .
-	$ git commit -m "Initial Commit"
-
-Once that's done, an initial commit has been created.  In order to push up to GitHub, log in to your GitHub account, and then add a new respository.  It's important to remember not to allow GitHub to create a readme.md file, since Rails automatically creates one.  After that's done, the next step is to go back into the Terminal window, and add the following:
-
-	
-

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77a048d-ed6a-4be6-940a-82058359b4d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/00_Getting_Up_and_Running.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ruby-notes.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/00_Getting_Started.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/config.json" afterPath="$PROJECT_DIR$/docs/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/00_Getting_Started/index.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/00_Getting_Up_and_Running.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ruby-notes.iws" />
@@ -30,13 +28,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="00_Getting_Up_and_Running.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/00_Getting_Up_and_Running.md">
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="4" selection-start="3456" selection-end="3456" vertical-scroll-proportion="0.9639856" vertical-offset="517" max-vertical-offset="1440">
+            <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="-12.777778" vertical-offset="675" max-vertical-offset="1215">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Version_Control.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="58" selection-start="2180" selection-end="2180" vertical-scroll-proportion="0.800759" vertical-offset="373" max-vertical-offset="900">
               <folding />
             </state>
           </provider>
@@ -74,7 +84,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/docs/config.json" />
+        <option value="$PROJECT_DIR$/docs/00_Getting_Started/index.md" />
         <option value="$PROJECT_DIR$/docs/00_Getting_Up_and_Running.md" />
+        <option value="$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md" />
       </list>
     </option>
   </component>
@@ -138,6 +150,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby-notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00_Getting_Started" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,7 +258,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -294,12 +324,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Up_and_Running.md">
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="4" selection-start="3456" selection-end="3456" vertical-scroll-proportion="0.9639856" vertical-offset="517" max-vertical-offset="1440">
+        <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="-12.777778" vertical-offset="675" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="58" selection-start="2180" selection-end="2180" vertical-scroll-proportion="0.800759" vertical-offset="373" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
