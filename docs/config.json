@@ -5,6 +5,7 @@
 	"image": "img/app.png",
 	"theme": "navy",
 	"template":"default",
+	"float":false,
 	"toggle_code": true,
 	"date_modified": true,
 	"repo": "",
