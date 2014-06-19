@@ -1,0 +1,15 @@
+{
+	"title": "Notes on Ruby on Rails Tutorial",
+	"tagline": "",
+	"docs_path": "docs",
+	"image": "img/app.png",
+	"theme": "navy",
+	"template":"default",
+	"toggle_code": true,
+	"date_modified": true,
+	"repo": "",
+	"twitter": [],
+	"google_analytics": "",
+	"links": {
+	}
+}
