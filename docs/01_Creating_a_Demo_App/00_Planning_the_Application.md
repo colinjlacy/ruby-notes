@@ -38,6 +38,3 @@ While at this point spinning up the server with `rails server` will only show th
 | /users/1/edit  | edit | edit user with id:1 |
 
 All of these pages are live and ready to go, even with this little work put into it.  Snazzy.  We can create a new user by visiting `/users/new` and filling out the form.  We can do this as many times as possible, and then even edit or delete them as well.
-
-
-
