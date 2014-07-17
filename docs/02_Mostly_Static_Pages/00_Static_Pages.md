@@ -33,4 +33,6 @@ Well, at this point, they're defined as empty, but we'll build on that. At the v
 The view file will come automatically populated with the name of the controller and the action wrapped in an `<h1>`, and the path to the view, which in this case is `app/views/static_pages/home.html.erb`.  Things to take away from this:
 
 * The actions listed in the `generate` script after the name of the controller each get their own methods in the controller, routes in `routes.rb`, and corresponding views.
-*
+* When establishing the view rules in the `routes.rb` file, rails assigns the `http GET` command to the view template, meaning no data is passed to the server before the template is returned.
+* Though a static page is created by rails, we can consider it as useful as WP's initial **Hello World** post.  That is, we'll have to do some more work in order to make the view worth anything to us in production.
+* It's perfectly acceptable for a Rails view to only contain html, as this initial view does.
