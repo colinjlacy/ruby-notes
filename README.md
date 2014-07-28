@@ -2,4 +2,4 @@ These are my notes from my Ruby on Rails book.  I'll be updating them as I make 
 
 Here's the [book](http://www.railstutorial.org/book/beginning)
 
-Stopped at 3.3.3 on 7-21-14, my birthday.
+Stopped at 4.1 on 7-27-14.
