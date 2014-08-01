@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77a048d-ed6a-4be6-940a-82058359b4d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md" afterPath="$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/01_Strings_and_Methods.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md" afterPath="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,73 +30,85 @@
     <leaf>
       <file leaf-file-name="00_Static_Pages.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/00_Static_Pages.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="37" column="93" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="01_Testing.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/01_Testing.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="36" column="7" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="254" selection-end="254" vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+            <state line="4" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.08939213" vertical-offset="0" max-vertical-offset="839">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="02_Adding_a_Page.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/02_Adding_a_Page.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="41" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="03_Slightly_Dynamic_Pages.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="230" selection-start="5418" selection-end="5418" vertical-scroll-proportion="0.7037037" vertical-offset="1444" max-vertical-offset="2055">
+            <state line="95" column="230" selection-start="5418" selection-end="5418" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="1725">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="00_Motivation.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="11" selection-start="2254" selection-end="2254" vertical-scroll-proportion="-21.074074" vertical-offset="151" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_Strings_and_Methods.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/01_Strings_and_Methods.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="15" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -126,6 +138,8 @@
         <option value="$PROJECT_DIR$/docs/02_Mostly_Static_Pages/01_Testing.md" />
         <option value="$PROJECT_DIR$/docs/02_Mostly_Static_Pages/02_Adding_a_Page.md" />
         <option value="$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md" />
+        <option value="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md" />
+        <option value="$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/01_Strings_and_Methods.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -230,14 +244,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -248,15 +254,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -299,25 +313,25 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28747204" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15778098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -337,38 +351,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="256" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="675" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="28" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1065" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="173" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
@@ -382,54 +388,54 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1110" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="11" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="795" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="256" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="675" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="24" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1065" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="173" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
       </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -442,37 +448,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="11" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="795" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="0" selection-start="2300" selection-end="2300" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="735" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
@@ -486,37 +492,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1110" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="11" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="795" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="0" selection-start="2300" selection-end="2300" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="735" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
@@ -530,30 +536,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1110" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="168" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="795" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="26" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -566,19 +572,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="168" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="795" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
@@ -602,51 +608,51 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/00_Planning_the_Application.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="256" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.80088496" vertical-offset="298" max-vertical-offset="750" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/Version_Control.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="11" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.33684212" vertical-offset="365" max-vertical-offset="840" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.9410526" vertical-offset="648" max-vertical-offset="1185" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/01_Introducing_MVC.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.83789474" vertical-offset="682" max-vertical-offset="1170" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/02_Adding_the_Micropost_Resource.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="290" selection-start="937" selection-end="937" vertical-scroll-proportion="0.37894738" vertical-offset="0" max-vertical-offset="475" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/03_Data_Model_Associations.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Creating_a_Demo_App/03_Data_Model_Associations.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="187" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.8105263" vertical-offset="170" max-vertical-offset="645" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/config.json">
@@ -660,63 +666,73 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/00_Static_Pages.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="93" selection-start="2688" selection-end="2688" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/01_Testing.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/01_Testing.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="7" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/02_Adding_a_Page.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/02_Adding_a_Page.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="41" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Mostly_Static_Pages/03_Slightly_Dynamic_Pages.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="230" selection-start="5418" selection-end="5418" vertical-scroll-proportion="0.7037037" vertical-offset="1444" max-vertical-offset="2055">
+        <state line="95" column="230" selection-start="5418" selection-end="5418" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="1725">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/00_Motivation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="11" selection-start="2254" selection-end="2254" vertical-scroll-proportion="-21.074074" vertical-offset="151" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/03_Rails-flavored_Ruby/01_Strings_and_Methods.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+        <state line="15" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-8.333333" vertical-offset="0" max-vertical-offset="315">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="254" selection-end="254" vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+        <state line="4" column="16" selection-start="245" selection-end="245" vertical-scroll-proportion="0.08939213" vertical-offset="0" max-vertical-offset="839">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
