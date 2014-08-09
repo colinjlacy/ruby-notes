@@ -1,0 +1,1 @@
+In Ruby, everything is an *object*, which means each thing in Ruby has its own properties and methods to be executed upon, and can - in many cases - have properties added to it.
